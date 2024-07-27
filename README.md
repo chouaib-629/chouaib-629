@@ -32,15 +32,33 @@ Here are some ideas to get you started:
 
 ### Languages
 
-| C | HTML | CSS | JS | PHP | Java | Python |
-| --- | --- | --- | --- | --- | --- | --- |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="55" width="55" /> |
+| C | HTML | CSS | JS | PHP | Java | Python | Dart | Kotlin | XML |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="55" width="55" /> |
+
+### Frameworks and Libraries
+
+| Bootstrap | Tailwind | React | FLutter | Node.js | Vite |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" height="55" width="55" /> |
 
 ### Frameworks and Libraries for Python3
 
-| Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55" /> |
+| Numpy | Pandas | Sklearn | Keras | OpenCV |
+| --- | --- | --- | --- | --- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55" /> |
+
+### Databases and Backend
+
+| MySQL | Firebase |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="55" width="55" /> |
+
+### Development Environments
+
+| Android Studio | Gitpod |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg" height="55" width="55" /> |
 
 ### OS
 
@@ -50,9 +68,9 @@ Here are some ideas to get you started:
 
 ### Other
 
-| Git | Github | Gitpod |
-| --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg" height="55" width="55" /> |
+| Git | Github | WordPress | OracleAPEX | Matlab | UML |
+| --- | --- | --- | --- | --- | -- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="55" width="55" /> | <img src="/assets/oracleAPEX_logo.png" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="55" width="55" /> |
 
 ---
   
