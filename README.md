@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: **chouaiba629@gmail.com / c.zeddam@univ-alger.dz**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: **chouaiba629@gmail.com / c.zeddam@univ-alger.dz**
 
 ## Connect with me
 
@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries for Python3
 
-| Numpy | Pandas | Sklearn | Keras | OpenCV |
-| --- | --- | --- | --- | --- |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55" /> |
+| Numpy | Pandas | Sklearn | Keras | OpenCV | Streamlit | Gekko |
+| --- | --- | --- | --- | --- | --- | --- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55" /> | <img src="/assets/gekko.png" title="gekko" alt="gekko" width="55" height="55" /> |
 
 ### Databases and Backend
 
