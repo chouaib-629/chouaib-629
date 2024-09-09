@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Chouaib </h1>
+<h1 align="center"> Hi there 👋, I'm Chouaib ZEDDAM </h1>
 
 <p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## Connect with me
 
 <div>
-    <a href="https://twitter.com/ChouaibZed52059" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chouaib-zeddam" height="40" width="50" /></a>
     <a href="https://www.linkedin.com/in/chouaib-zeddam-a15099250/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chouaib-zeddam" height="40" width="50" /></a>
 </div>
 
