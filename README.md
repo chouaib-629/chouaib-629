@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Connect with me
 
 <div>
-    <a href="https://www.linkedin.com/in/chouaib-zeddam-a15099250/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="chouaib-zeddam" height="40" width="50" /></a>
+    <a href="https://www.linkedin.com/in/chouaib-zeddam-a15099250/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="chouaib-zeddam" height="70" width="70" /></a>
 </div>
 
 ## Languages and Tools
