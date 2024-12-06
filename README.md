@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: **chouaiba629@gmail.com / c.zeddam@univ-alger.dz**
+### 📫 How to reach me:
+- **Email:** [chouaiba629@gmail.com](mailto:chouaiba629@gmail.com) / [c.zeddam@univ-alger.dz](mailto:c.zeddam@univ-alger.dz)
+- **Phone:** +213 670 289 077
 
 ## Connect with me
 
@@ -33,13 +35,13 @@ Here are some ideas to get you started:
 
 | C | HTML | CSS | JS | PHP | Java | Python | Dart | Kotlin | XML |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="55" width="55" /> |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="55" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="55" width="55" /> | <img src="https://techstack-generator.vercel.app/java-icon.svg" height="55" width="55" /> | <img src="https://techstack-generator.vercel.app/python-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="55" width="55" /> |
 
 ### Frameworks and Libraries
 
 | Bootstrap | Tailwind | React | FLutter | Node.js | Vite |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" height="55" width="55" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="55" width="55" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" height="55" width="55" /> |
 
 ### Frameworks and Libraries for Python3
 
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
 
 | MySQL | Firebase |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="55" width="55" /> |
+| <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="55" width="55" /> |
 
 ### Development Environments
 
@@ -69,7 +71,7 @@ Here are some ideas to get you started:
 
 | Git | Github | WordPress | OracleAPEX | Matlab | UML |
 | --- | --- | --- | --- | --- | -- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="55" width="55" /> | <img src="/assets/oracleAPEX_logo.png" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="55" width="55" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="55" width="55" /> | <img src="https://techstack-generator.vercel.app/github-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="55" width="55" /> | <img src="/assets/oracleAPEX_logo.png" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="55" width="55" /> |
 
 ---
   
