@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### Databases and Backend
 
-| MySQL | Firebase |
-| --- | --- |
-| <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="55" width="55" /> |
+| MySQL | Firebase | MongoDB |
+| --- | --- | --- |
+| <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="55" width="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-plain-wordmark.svg" height="55" width="55" /> |
 
 ### Development Environments
 
