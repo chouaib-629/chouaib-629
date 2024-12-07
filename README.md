@@ -15,6 +15,10 @@
     </tr>
 </table>
 
+<img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
+
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chouaib-629&title=Stars,Followers,Reviews,Commits,Experience,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
