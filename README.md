@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chouaib+ZEDDAM;" alt="Typing SVG">
 </h1>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
-        <td style="width: 80%; vertical-align: middle; font-size: 16px;">
+        <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none;">
             A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.
         </td>
-        <td style="width: 20%; vertical-align: middle;">
+        <td style="width: 20%; vertical-align: middle; border: none;">
             <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Exciting Project" style="max-width: 100%; height: auto;">
         </td>
     </tr>
