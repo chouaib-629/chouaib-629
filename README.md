@@ -6,11 +6,11 @@
 
 <table style="width: 100%; border-collapse: collapse; border: none !important;">
     <tr>
-        <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none;">
+        <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none !important;">
             <p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
             <img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
         </td>
-        <td style="width: 20%; vertical-align: middle; border: none;">
+        <td style="width: 20%; vertical-align: middle; border: none !important;">
             <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Exciting Project" style="height: auto; width: 220px;" />
         </td>
     </tr>
