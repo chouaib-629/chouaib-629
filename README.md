@@ -7,17 +7,14 @@
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
         <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none;">
-            A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.
+            <p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
+            <img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
         </td>
         <td style="width: 20%; vertical-align: middle; border: none;">
             <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Exciting Project" style="height: auto; width: 220px;" />
         </td>
     </tr>
 </table>
-
-<img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
-
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chouaib-629&title=Stars,Followers,Reviews,Commits,Experience,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
