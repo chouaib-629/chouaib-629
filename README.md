@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 ### Development Environments
 
-| Android Studio | Gitpod |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg" height="55" width="55" /> |
+| VS Code | Android Studio | Gitpod |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg" height="55" width="55" /> |
 
 ### OS
 
