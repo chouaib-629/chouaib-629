@@ -2,9 +2,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chouaib+ZEDDAM;" alt="Typing SVG">
 </h1>
 
-<p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
-
-<img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <p style="font-size: 16px">A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Exciting Project" style="max-width: 200px; height: auto;">
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chouaib-629&title=Stars,Followers,Reviews,Commits,Experience,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
