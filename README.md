@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=96d3fb&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chouaib+ZEDDAM;" alt="Typing SVG">
 </h1>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none !important;">
     <tr>
         <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none;">
             <p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
