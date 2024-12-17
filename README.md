@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📫 How to reach me:
+### 📫 How to reach me
+
 - **Email:** [chouaiba629@gmail.com](mailto:chouaiba629@gmail.com) / [c.zeddam@univ-alger.dz](mailto:c.zeddam@univ-alger.dz)
 - **Phone:** +213 670 289 077
 
@@ -57,9 +58,9 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries for Python3
 
-| Numpy | Pandas | Sklearn | Keras | OpenCV | Streamlit | Gekko |
-| --- | --- | --- | --- | --- | --- | --- |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55" /> | <img src="/assets/gekko.png" title="gekko" alt="gekko" width="55" height="55" /> |
+| Numpy | Pandas | Sklearn | Keras | OpenCV | Streamlit | Gekko | Beautiful Soup | Selenium |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55" /> | <img src="/assets/gekko.png" title="gekko" alt="gekko" width="55" height="55" /> | <img src="/assets/beautifulsoup.jpg" title="beautifulsoup" alt="beautifulsoup" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="55" height="55" /> |
 
 ### Databases and Backend
 
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chouaib-629&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouaib-629&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouaib-629&PrivateStatsToken=true&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
 </div>
 
 <picture>
