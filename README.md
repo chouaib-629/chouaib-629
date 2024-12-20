@@ -6,7 +6,7 @@
 
 <table style="width: 100%; border-collapse: collapse; border: none !important;">
     <tr>
-        <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none !important;">
+        <td style="width: 70%; vertical-align: middle; font-size: 16px; border: none !important;">
             <p>
                 I'm a <strong>Data Science and Analytics student</strong> and a passionate <strong>Full-Stack Developer</strong>.
                 I enjoy building data-driven solutions and creating dynamic applications that solve real-world problems.
@@ -18,7 +18,7 @@
             </ul>
             <img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
         </td>
-        <td style="width: 20%; vertical-align: middle; border: none !important;">
+        <td style="width: 30%; vertical-align: middle; border: none !important;">
             <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Exciting Project" style="height: auto; width: 220px;" />
         </td>
     </tr>
