@@ -1,4 +1,4 @@
-<img src="./assets/header-image.png" width="100%" >
+<img src="./assets/header-image.png" width="100%" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=96d3fb&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chouaib+ZEDDAM;" alt="Typing SVG">
@@ -7,7 +7,15 @@
 <table style="width: 100%; border-collapse: collapse; border: none !important;">
     <tr>
         <td style="width: 80%; vertical-align: middle; font-size: 16px; border: none !important;">
-            <p>A data science and analytics student and full stack developer. I love working on exciting projects and learning new technologies.</p>
+            <p>
+                I'm a <strong>Data Science and Analytics student</strong> and a passionate <strong>Full-Stack Developer</strong>.
+                I enjoy building data-driven solutions and creating dynamic applications that solve real-world problems.
+            </p>
+            <ul>
+                <li>🔍 Transforming raw data into meaningful, actionable insights for data-driven decision-making.</li>
+                <li>💻 Building scalable and high-performance web applications using modern technologies.</li>
+                <li>🚀 Continuously learning and experimenting with the latest tools and frameworks to enhance development practices.</li>
+            </ul>
             <img src="https://komarev.com/ghpvc/?username=chouaib-629&style=for-the-badge&color=orange" alt="chouaib-629" />
         </td>
         <td style="width: 20%; vertical-align: middle; border: none !important;">
@@ -18,19 +26,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chouaib-629&title=Stars,Followers,Reviews,Commits,Experience,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**chouaib-629/chouaib-629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
 
-Here are some ideas to get you started:
+- 🔍 Interested in **Data Science**, **Web Development**, and **Freelance Projects**.
+- 🌐 Passionate about leveraging technology to craft innovative and efficient solutions.
+- 📈 Always looking for opportunities to collaborate on impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 📫 How to reach me
 
 - **Email:** [chouaiba629@gmail.com](mailto:chouaiba629@gmail.com) / [c.zeddam@univ-alger.dz](mailto:c.zeddam@univ-alger.dz)
@@ -58,9 +59,9 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries for Python3
 
-| Numpy | Pandas | Sklearn | Keras | OpenCV | Streamlit | Gekko | Beautiful Soup | Selenium |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55" /> | <img src="/assets/gekko.png" title="gekko" alt="gekko" width="55" height="55" /> | <img src="/assets/beautifulsoup.jpg" title="beautifulsoup" alt="beautifulsoup" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="55" height="55" /> |
+| Numpy | Pandas | Sklearn | Keras | OpenCV | Streamlit | Gekko | Beautiful Soup | Selenium | Tensoflow |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55" /> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="keras" alt="keras" height="55" width="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55" /> | <img src="/assets/gekko.png" title="gekko" alt="gekko" width="55" height="55" /> | <img src="/assets/beautifulsoup.jpg" title="beautifulsoup" alt="beautifulsoup" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55" /> |
 
 ### Databases and Backend
 
@@ -102,3 +103,17 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<!--
+**chouaib-629/chouaib-629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
