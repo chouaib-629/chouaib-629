@@ -39,8 +39,9 @@
 
 ## Connect with me
 
-<div>
-    <a href="https://www.linkedin.com/in/chouaib-zeddam-a15099250/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="chouaib-zeddam" height="70" width="70" /></a>
+<div style="display: flex; flex-direction: row; align-items: center;">
+    <a href="https://www.linkedin.com/in/chouaib-zeddam/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="chouaib-zeddam" height="70" width="70" /></a>
+    <a href="https://www.kaggle.com/chouaibzeddam" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kaggle/kaggle-original.svg" alt="chouaib-zeddam" height="60" width="70" /></a>
 </div>
 
 ## Languages and Tools
