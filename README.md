@@ -8,8 +8,7 @@
     <tr>
         <td style="width: 70%; vertical-align: middle; font-size: 16px; border: none !important;">
             <p>
-                I'm a <strong>Data Science and Analytics student</strong> and a passionate <strong>Full-Stack Developer</strong>.
-                I enjoy building data-driven solutions and creating dynamic applications that solve real-world problems.
+                As a <strong>Data Scientist & Analyst<strong>, also freelancing as a <strong>digital solutions developer<strong>, I specialize in creating data-driven systems and dynamic applications that address real-world challenges.
             </p>
             <ul>
                 <li>🔍 Transforming raw data into meaningful, actionable insights for data-driven decision-making.</li>
